@@ -1,0 +1,21 @@
+{
+  "project": "Veepee Spain Market Intelligence & Circular Fashion",
+  "datasets": 12,
+  "sources": {
+    "CNMC": "https://data.cnmc.es/comercio-electronico",
+    "datos.gob.es": "https://datos.gob.es/es/catalogo/ea0042931-estadisticas-trimestrales-de-comercio-electronico-cnmc",
+    "INE EPF": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176806",
+    "Eurostat": "https://ec.europa.eu/eurostat/data/database",
+    "EEA": "https://www.eea.europa.eu/en/analysis/publications/management-of-used-and-waste-textiles-in-europes-circular-economy",
+    "Fashion for Good": "https://www.fashionforgood.com/case-study/sorting-for-circularity-europe/",
+    "NIQ-GfK": "https://nielseniq.com/global/en/news-center/2025/europeans-spend-an-average-of-772-euros-on-fashion/",
+    "WRAP": "https://www.wrap.ngo/resources/tool/textiles-sorting-and-recycling-database"
+  },
+  "notes": [
+    "CNMC raw CSVs downloadable from datos.gob.es for granular sector data",
+    "INE microdata available for academic research",
+    "2025 EU mandatory textile collection will update EEA baseline",
+    "Veepee Re-Cycle launched Spain mid-2024",
+    "Some estimates derived from press releases - cross-validate with original sources"
+  ]
+}

@@ -1,0 +1,9 @@
+year,secondhand_market_billion_eur,secondhand_pct_fashion_market,eu_textile_consumption_kg_capita,eu_textile_waste_million_tonnes,eu_recycling_rate_pct,veepee_recycle_spain,eu_mandatory_collection,source
+2018,0.8,3.5,19.0,6.5,12.0,False,False,EEA/Industry
+2019,1.0,4.2,19.5,6.7,12.5,False,False,EEA/Industry
+2020,1.3,5.8,17.0,6.95,13.0,False,False,EEA/Industry
+2021,1.8,7.5,18.0,7.0,13.5,False,False,EEA/Industry
+2022,2.2,8.5,19.0,7.1,14.0,False,False,EEA/Industry
+2023,2.7,9.8,19.0,7.2,15.0,False,False,EEA/Industry
+2024,3.2,11.0,19.5,7.3,16.0,True,False,EEA/Industry
+2025,3.8,12.5,19.5,7.4,17.0,True,True,EEA/Industry

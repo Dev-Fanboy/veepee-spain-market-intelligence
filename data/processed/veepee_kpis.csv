@@ -1,0 +1,8 @@
+year,global_revenue_billion_eur,employees_total,employees_spain,brand_partners,spain_fashion_pct,recycle_spain,innovation_lab_bcn
+2018,3.7,6000,800,7000,50,False,False
+2019,3.7,6000,900,7000,50,False,False
+2020,3.4,5500,950,7000,52,False,False
+2021,3.0,5000,1000,7000,53,False,True
+2022,3.0,5000,1000,7000,52,False,True
+2023,3.2,5000,1000,7000,51,False,True
+2024,3.3,5000,1000,7000,50,True,True

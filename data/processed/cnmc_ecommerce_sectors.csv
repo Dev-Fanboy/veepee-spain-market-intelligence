@@ -1,0 +1,25 @@
+year,quarter,rank,sector,revenue_share_pct
+2020,Q2,1,Prendas de vestir,9.4
+2020,Q2,2,Suscripcion TV,4.5
+2020,Q2,3,Supermercados,4.1
+2022,Q4,1,Agencias viaje,7.0
+2022,Q4,2,Prendas de vestir,6.9
+2022,Q4,3,Transporte aereo,5.0
+2023,Q2,1,Agencias viaje,11.2
+2023,Q2,2,Transporte aereo,6.2
+2023,Q2,3,Prendas de vestir,5.6
+2023,Q3,1,Agencias viaje,13.2
+2023,Q3,2,Transporte aereo,5.6
+2023,Q3,3,Prendas de vestir,5.2
+2023,Q4,1,Agencias viaje,8.5
+2023,Q4,2,Prendas de vestir,7.3
+2023,Q4,3,Transporte aereo,5.5
+2024,Q1,1,Agencias viaje,10.3
+2024,Q1,2,Transporte aereo,6.6
+2024,Q1,3,Prendas de vestir,6.3
+2024,Q2,1,Agencias viaje,11.0
+2024,Q2,2,Prendas de vestir,6.0
+2024,Q2,3,Transporte aereo,5.9
+2024,Q4,1,Agencias viaje,7.9
+2024,Q4,2,Prendas de vestir,6.6
+2024,Q4,3,Transporte aereo,5.0
